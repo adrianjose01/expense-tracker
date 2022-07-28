@@ -1,0 +1,9 @@
+.header {
+  background-color: #058c42;
+  display: grid;
+  place-items: center;
+}
+
+.header h1 {
+  color: white;
+}

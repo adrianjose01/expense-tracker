@@ -1,0 +1,40 @@
+.transactions {
+  margin: 0 auto 0 auto;
+  width: 20rem;
+}
+
+.transactions_title {
+  text-align: center;
+  margin: 1rem;
+}
+
+.transactions_tracker {
+  display: flex;
+  justify-content: space-between;
+  color: white;
+  padding: 0.5rem;
+  margin: 0.3rem;
+}
+
+.transactions_tracker p {
+  overflow: auto;
+}
+
+.transactions_tracker__expense_delete {
+  display: flex;
+  justify-content: center;
+}
+
+.delete_btn {
+  background-color: transparent;
+  cursor: default;
+  border: none;
+}
+
+.bg_green {
+  background-color: #058c42;
+}
+
+.bg_red {
+  background-color: red;
+}
